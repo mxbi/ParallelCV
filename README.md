@@ -1,6 +1,8 @@
 ## ParallelCV - Multi-threaded cross-validation for KNIME
 
-ParallelCV is a meta-node for KNIME, similar in functionality to the X-Partitioner/X-Agreggator, except that it performs all folds in parallel. On single-threaded workloads (such as the MultiLayerPerceptron Learner), this produces an output **5x faster** than using traditional CV. This has no effect on performance when working with workloads that are already multithreaded (e.g. Random Forests)
+ParallelCV is a meta-node for KNIME, similar in functionality to the X-Partitioner/X-Agreggator, except that it performs each fold on a seperate thread in parallel.
+
+On single-threaded workloads (such as the MultiLayerPerceptron Learner), and a CPU with >4 threads, this has a **5x speed increase** versus traditional CV. However, on workloads which are multi-threaded already (eg. Random Forests), this has no performance impact.
 
 #### Features
 
