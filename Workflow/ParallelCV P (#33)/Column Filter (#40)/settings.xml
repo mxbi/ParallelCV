@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="column-filter">
+<entry key="filter-type" type="xstring" value="STANDARD"/>
+<config key="included_names">
+<entry key="array-size" type="xint" value="133"/>
+<entry key="0" type="xstring" value="target"/>
+<entry key="1" type="xstring" value="v1"/>
+<entry key="2" type="xstring" value="v2"/>
+<entry key="3" type="xstring" value="v3"/>
+<entry key="4" type="xstring" value="v4"/>
+<entry key="5" type="xstring" value="v5"/>
+<entry key="6" type="xstring" value="v6"/>
+<entry key="7" type="xstring" value="v7"/>
+<entry key="8" type="xstring" value="v8"/>
+<entry key="9" type="xstring" value="v9"/>
+<entry key="10" type="xstring" value="v10"/>
+<entry key="11" type="xstring" value="v11"/>
+<entry key="12" type="xstring" value="v12"/>
+<entry key="13" type="xstring" value="v13"/>
+<entry key="14" type="xstring" value="v14"/>
+<entry key="15" type="xstring" value="v15"/>
+<entry key="16" type="xstring" value="v16"/>
+<entry key="17" type="xstring" value="v17"/>
+<entry key="18" type="xstring" value="v18"/>
+<entry key="19" type="xstring" value="v19"/>
+<entry key="20" type="xstring" value="v20"/>
+<entry key="21" type="xstring" value="v21"/>
+<entry key="22" type="xstring" value="v22"/>
+<entry key="23" type="xstring" value="v23"/>
+<entry key="24" type="xstring" value="v24"/>
+<entry key="25" type="xstring" value="v25"/>
+<entry key="26" type="xstring" value="v26"/>
+<entry key="27" type="xstring" value="v27"/>
+<entry key="28" type="xstring" value="v28"/>
+<entry key="29" type="xstring" value="v29"/>
+<entry key="30" type="xstring" value="v30"/>
+<entry key="31" type="xstring" value="v31"/>
+<entry key="32" type="xstring" value="v32"/>
+<entry key="33" type="xstring" value="v33"/>
+<entry key="34" type="xstring" value="v34"/>
+<entry key="35" type="xstring" value="v35"/>
+<entry key="36" type="xstring" value="v36"/>
+<entry key="37" type="xstring" value="v37"/>
+<entry key="38" type="xstring" value="v38"/>
+<entry key="39" type="xstring" value="v39"/>
+<entry key="40" type="xstring" value="v40"/>
+<entry key="41" type="xstring" value="v41"/>
+<entry key="42" type="xstring" value="v42"/>
+<entry key="43" type="xstring" value="v43"/>
+<entry key="44" type="xstring" value="v44"/>
+<entry key="45" type="xstring" value="v45"/>
+<entry key="46" type="xstring" value="v46"/>
+<entry key="47" type="xstring" value="v47"/>
+<entry key="48" type="xstring" value="v48"/>
+<entry key="49" type="xstring" value="v49"/>
+<entry key="50" type="xstring" value="v50"/>
+<entry key="51" type="xstring" value="v51"/>
+<entry key="52" type="xstring" value="v52"/>
+<entry key="53" type="xstring" value="v53"/>
+<entry key="54" type="xstring" value="v54"/>
+<entry key="55" type="xstring" value="v55"/>
+<entry key="56" type="xstring" value="v56"/>
+<entry key="57" type="xstring" value="v57"/>
+<entry key="58" type="xstring" value="v58"/>
+<entry key="59" type="xstring" value="v59"/>
+<entry key="60" type="xstring" value="v60"/>
+<entry key="61" type="xstring" value="v61"/>
+<entry key="62" type="xstring" value="v62"/>
+<entry key="63" type="xstring" value="v63"/>
+<entry key="64" type="xstring" value="v64"/>
+<entry key="65" type="xstring" value="v65"/>
+<entry key="66" type="xstring" value="v66"/>
+<entry key="67" type="xstring" value="v67"/>
+<entry key="68" type="xstring" value="v68"/>
+<entry key="69" type="xstring" value="v69"/>
+<entry key="70" type="xstring" value="v70"/>
+<entry key="71" type="xstring" value="v71"/>
+<entry key="72" type="xstring" value="v72"/>
+<entry key="73" type="xstring" value="v73"/>
+<entry key="74" type="xstring" value="v74"/>
+<entry key="75" type="xstring" value="v75"/>
+<entry key="76" type="xstring" value="v76"/>
+<entry key="77" type="xstring" value="v77"/>
+<entry key="78" type="xstring" value="v78"/>
+<entry key="79" type="xstring" value="v79"/>
+<entry key="80" type="xstring" value="v80"/>
+<entry key="81" type="xstring" value="v81"/>
+<entry key="82" type="xstring" value="v82"/>
+<entry key="83" type="xstring" value="v83"/>
+<entry key="84" type="xstring" value="v84"/>
+<entry key="85" type="xstring" value="v85"/>
+<entry key="86" type="xstring" value="v86"/>
+<entry key="87" type="xstring" value="v87"/>
+<entry key="88" type="xstring" value="v88"/>
+<entry key="89" type="xstring" value="v89"/>
+<entry key="90" type="xstring" value="v90"/>
+<entry key="91" type="xstring" value="v91"/>
+<entry key="92" type="xstring" value="v92"/>
+<entry key="93" type="xstring" value="v93"/>
+<entry key="94" type="xstring" value="v94"/>
+<entry key="95" type="xstring" value="v95"/>
+<entry key="96" type="xstring" value="v96"/>
+<entry key="97" type="xstring" value="v97"/>
+<entry key="98" type="xstring" value="v98"/>
+<entry key="99" type="xstring" value="v99"/>
+<entry key="100" type="xstring" value="v100"/>
+<entry key="101" type="xstring" value="v101"/>
+<entry key="102" type="xstring" value="v102"/>
+<entry key="103" type="xstring" value="v103"/>
+<entry key="104" type="xstring" value="v104"/>
+<entry key="105" type="xstring" value="v105"/>
+<entry key="106" type="xstring" value="v106"/>
+<entry key="107" type="xstring" value="v107"/>
+<entry key="108" type="xstring" value="v108"/>
+<entry key="109" type="xstring" value="v109"/>
+<entry key="110" type="xstring" value="v110"/>
+<entry key="111" type="xstring" value="v111"/>
+<entry key="112" type="xstring" value="v112"/>
+<entry key="113" type="xstring" value="v113"/>
+<entry key="114" type="xstring" value="v114"/>
+<entry key="115" type="xstring" value="v115"/>
+<entry key="116" type="xstring" value="v116"/>
+<entry key="117" type="xstring" value="v117"/>
+<entry key="118" type="xstring" value="v118"/>
+<entry key="119" type="xstring" value="v119"/>
+<entry key="120" type="xstring" value="v120"/>
+<entry key="121" type="xstring" value="v121"/>
+<entry key="122" type="xstring" value="v122"/>
+<entry key="123" type="xstring" value="v123"/>
+<entry key="124" type="xstring" value="v124"/>
+<entry key="125" type="xstring" value="v125"/>
+<entry key="126" type="xstring" value="v126"/>
+<entry key="127" type="xstring" value="v127"/>
+<entry key="128" type="xstring" value="v128"/>
+<entry key="129" type="xstring" value="v129"/>
+<entry key="130" type="xstring" value="v130"/>
+<entry key="131" type="xstring" value="v131"/>
+<entry key="132" type="xstring" value="INDEX"/>
+</config>
+<config key="excluded_names">
+<entry key="array-size" type="xint" value="0"/>
+</config>
+<entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+<config key="name_pattern">
+<entry key="pattern" type="xstring" value=""/>
+<entry key="type" type="xstring" value="Wildcard"/>
+<entry key="caseSensitive" type="xboolean" value="true"/>
+</config>
+<config key="datatype">
+<config key="typelist"/>
+</config>
+</config>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="IDLE"/>
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory"/>
+<entry key="node-name" type="xstring" value="Column Filter"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-bundle-version" type="xstring" value="3.1.0.v201512020906"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Core"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<entry key="node-feature-version" type="xstring" value="3.1.0.v201512031304"/>
+<config key="factory_settings"/>
+<entry key="name" type="xstring" value="Column Filter"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>
