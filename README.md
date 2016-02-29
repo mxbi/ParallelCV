@@ -25,3 +25,9 @@ On single-threaded workloads (such as the MultiLayerPerceptron Learner), and a C
 **Install:** Head over to the [releases](https://github.com/mxbi/ParallelCV/releases) page to download the latest zip file. In KNIME, choose File -> Import Workflow and select the Workflow zip file. This contains a workflow with the ParallelCV Partitioner and Agreggator setup in an example, ready to copy to another Workflow.
 
 Alternatively, you can `git clone` and place the folder in your KNIME Workspace directory.
+
+## Inside the nodes
+
+The **partitioner** is essentially a bunch of Math Formula nodes which calculate the start and endpoints of each fold. These are then converted into flow variables, merged, and passed to a Row Filter which creates the train/test sets for each fold. The **aggregator** takes the output tables from the predictor and concanetates them back into one table.
+
+![Image of the internal node layout](https://raw.githubusercontent.com/mxbi/ParallelCV/master/node-internals.png)
