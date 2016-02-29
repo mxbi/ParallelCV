@@ -15,3 +15,13 @@ On single-threaded workloads (such as the MultiLayerPerceptron Learner), and a C
 
 - 5-fold cross-validation only
 - No performance benefit with multi-threaded loads
+
+#### Bugs
+
+- No bugs, just features
+
+## Install/Usage
+
+**Install:** Head over to the [releases](https://github.com/mxbi/ParallelCV/releases) page to download the latest zip file. In KNIME, choose File -> Import Workflow and select the Workflow zip file. This contains a workflow with the ParallelCV Partitioner and Agreggator setup in an example, ready to copy to another Workflow.
+
+Alternatively, you can `git clone` and place the folder in your KNIME Workspace directory.
